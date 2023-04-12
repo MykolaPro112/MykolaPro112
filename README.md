@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MykolaPro112
-- 👀 I’m interested in programming my own Operating Software
-- 🌱 I’m currently learning Java and Ruby
-- 💞️ I’m looking to collaborate on Games, lots of things
-- 📫 How to reach me: proskurniamykola112@gmail.com
+- Hi, I’m Mykola Proskurnia
+- I am coding my own Operation Software
+- I am learning Java and later Ruby
+- I like coding and working on games
+- Email: proskurniamykola112@gmail.com
 
 <!---
 MykolaPro112/MykolaPro112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
