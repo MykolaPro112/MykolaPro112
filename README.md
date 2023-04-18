@@ -1,7 +1,6 @@
 - Hi, I’m Mykola Proskurnia
 - I am coding my own Operation Software
-- I am learning Java and later Ruby
-- I like coding and working on games
+- I am learning C and Ruby
 - Email: proskurniamykola112@gmail.com
 
 <!---
